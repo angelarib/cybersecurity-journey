@@ -1,0 +1,74 @@
+# Módulo 1 — Introdução à Cibersegurança
+
+*Carga horária:* 6h  
+*Data de conclusão:* [16.06.2026]  
+*Certificação ao concluir o programa:* Cisco CCST Cybersecurity  
+
+---
+
+# Objetivo do módulo
+
+Compreender os fundamentos da cibersegurança, as principais
+ameaças digitais e as práticas básicas para proteger informações
+e sistemas.
+
+---
+
+# Conceitos aprendidos
+
+*O que é cibersegurança*
+Conjunto de práticas, tecnologias e processos para proteger
+sistemas, redes e dados contra ataques, danos ou acessos
+não autorizados.
+
+*Principais ameaças digitais*
+- Malware: software malicioso (vírus, ransomware, spyware)  
+- Phishing: engenharia social para roubo de credenciais  
+- Ataques de força bruta: tentativas repetidas de acesso  
+- DDoS: sobrecarga de sistemas para torná-los indisponíveis  
+
+*Como ocorrem os ataques*
+Exploração de vulnerabilidades em software, erro humano,
+credenciais fracas ou expostas, e falta de atualização de sistemas.
+
+*Boas práticas de proteção*  
+- Senhas fortes e autenticação multifator (MFA)  
+- Atualizações regulares de sistema e software  
+- Backups periódicos  
+- Princípio do menor privilégio (acesso mínimo necessário)  
+
+*Funções em cibersegurança*
+- SOC Analyst: monitora e responde a incidentes  
+- Pentester: simula ataques para encontrar vulnerabilidades  
+- GRC Analyst: garante conformidade e gestão de riscos  
+- Threat Intelligence: analisa ameaças e tendências  
+
+---
+
+# REFLEXÂO
+
+O módulo introdutório foi alinhado com o que eu já tinha 
+de conhecimento prévio. A maior utilidade foi aprender a terminologia
+técnica para conceitos aplicados intuitivamente.
+
+---
+
+# Conexão com saúde e odontologia
+
+Na clínica odontológica, já aplico sem perceber vários
+desses princípios:
+
+- *Controle de acesso:* nem toda equipe acessa todos os
+  prontuários — isso é o princípio do menor privilégio na prática
+- *Confidencialidade:* dados de pacientes são PHI (Protected
+  Health Information) — protegidos pela LGPD assim como
+  dados corporativos são protegidos por políticas de segurança
+- *Engenharia social:* pacientes e fornecedores podem tentar
+  obter informações indevidas — o mesmo vetor de ataque que
+  o phishing usa em ambientes corporativos
+
+---
+        
+## Próximo módulo
+
+Módulo 2 — Conceitos Básicos de Redes (22h)
