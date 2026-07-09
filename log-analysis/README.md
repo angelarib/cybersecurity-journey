@@ -104,6 +104,3 @@ usando journalctl e grep.
 ---
 📎 Parte da minha trilha de transição para Cibersegurança —
 veja os outros projetos no repositório principal.
-
-## 🚨 O que justificaria um alerta
-Com base no padrão observado, a regra de detecção proposta seria:
