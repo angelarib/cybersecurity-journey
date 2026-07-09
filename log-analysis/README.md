@@ -100,7 +100,3 @@ usando journalctl e grep.
 4. `sudo service ssh restart`
 5. `ssh SEU_USUARIO@localhost` (testar senha errada e depois certa)
 6. `sudo journalctl -u ssh --no-pager | grep -i "SEU_USUARIO"`
-
----
-📎 Parte da minha trilha de transição para Cibersegurança —
-veja os outros projetos no repositório principal.
